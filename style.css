@@ -2,7 +2,9 @@
   margin: 0;
   font-family: "Open Sans", sans-serif;
 }
-
+i{
+    color: #fff;
+}
 .text-primary {
   color: #fd6e0a;
 }
@@ -16,7 +18,9 @@
   border: none;
   padding: 18px 35px;
 }
-
+i{
+    margin-right: 5px;
+}
 .header {
   background: #fff8f3;
   background-image: url("img/header_bg.png"), url("img/developer.png");
