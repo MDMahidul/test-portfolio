@@ -27,7 +27,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 225px;
+  padding: 50px 225px;
 }
 .nav-title {
   font-size: 45px;
