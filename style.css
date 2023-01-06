@@ -16,7 +16,21 @@ i{
   background: #fd6e0a;
   border-radius: 5px;
   border: none;
-  padding: 18px 35px;
+  padding: 10px 15px;
+}
+
+.btn-secondary{
+    border: 2px solid #fd6e0a;
+    color: #fd6e0a;
+    font-size: 20px;
+    font-weight: 700;
+    height: 64px;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-left: 21px;
+}
+.btn-secondary i{
+    color: #fd6e0a;
 }
 i{
     margin-right: 5px;
@@ -24,6 +38,7 @@ i{
 .header {
   background: #fff8f3;
   background-image: url("img/header_bg.png"), url("img/developer.png");
+  background-size: 50%,auto;
   background-repeat: no-repeat;
   background-position: bottom right, left;
 }
@@ -53,7 +68,8 @@ nav li {
   margin: 0 200px;
 }
 .banner img {
-  margin-left: 200px;
+  margin-left: 250px;
+  width: 500px;
 }
 .banner-title {
   font-size: 85px;
